@@ -1,4 +1,4 @@
-def columns_dataframe(df):
+def get_columns(df):
     """
     Get a list of columns
 
